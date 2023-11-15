@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Cake Slice Ninja:3D A Game By Aurora Byte",
+  "description": "Cake Slice -Ninja A Game By Pixel Pioneers",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Cake Slice Ninja:3D",
+  "name": "Cake Slice -Ninja",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Cake Slice Ninja:3D",
+  "short_name": "Cake Slice -Ninja",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Cake Slice Ninja:3D",
+      "name": "Cake Slice -Ninja",
       "url": "",
       "description": ""
     }
