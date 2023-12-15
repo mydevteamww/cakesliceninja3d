@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Cake Slice -Ninja A Game By Pixel Pioneers",
+  "description": "Cake Slicer Ninja A Game By Digi Games",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Cake Slice -Ninja",
+  "name": "Cake Slicer Ninja",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Cake Slice -Ninja",
+  "short_name": "Cake Slicer Ninja",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "Cake Slice -Ninja",
+      "name": "Cake Slicer Ninja",
       "url": "",
       "description": ""
     }
